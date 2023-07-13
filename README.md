@@ -4,7 +4,7 @@
 
 This is an SMS Bomber Tool made by TOXIC CYBER SECURITY
 
-rm - rf calculator
+rm - rf toXic-Bomber
 
 git clone https://github.com/MSRTanim/toXic-Bomber.git
 

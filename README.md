@@ -6,15 +6,15 @@ This is an SMS Bomber Tool made by TOXIC CYBER SECURITY
 
 rm - rf calculator
 
-git clone https://github.com/MSRTanim/calculator.git
+git clone https://github.com/MSRTanim/toXic-Bomber.git
 
 ls
 
-cd calculator
+cd toXic-Bomber
 
 ls
 
-python calculator.py
+python toxic_sms_bomber.py
 
 Thank You
 

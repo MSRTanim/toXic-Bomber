@@ -4,7 +4,7 @@
 
 # Install System
 
-      rm -rf 
+      rm -rf toXic-Bomber
       git clone https://github.com/MSRTanim/toxic-Bomber.git
 	  ls
       cd toXic-Bomber
